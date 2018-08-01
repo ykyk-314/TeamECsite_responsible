@@ -26,5 +26,18 @@
     
     ログインユーザーの情報を取得し表示  
     
+#### その他、調整・修正担当箇所  
+
+・オープニングアニメーション
+  index.jsp  
+・ホーム画面、ヘッダー
+  home.jsp　/　home.css  
+  header.jsp　/　style.css  
+    
+    レイアウト調整、クリック時のアクション作成・調整
+    
+
+
+
 ## LeisurePass！ECサイトURL（公開時間：平日10時 ～ 18時まで）
 ### http://www.internousdev.com/leisurepass
