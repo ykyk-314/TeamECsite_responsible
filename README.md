@@ -30,7 +30,7 @@
 
 ・オープニングアニメーション
   index.jsp  
-・ホーム画面、ヘッダー
+・ホーム画面、ヘッダー  
   home.jsp　/　home.css  
   header.jsp　/　style.css  
     
