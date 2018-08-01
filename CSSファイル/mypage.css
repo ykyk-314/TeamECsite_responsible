@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+
+#contents {
+	margin: 0;
+	padding: 0;
+	line-height: 1.6;
+	letter-spacing: 1px;
+	font-family: メイリオ ", sans-serif;
+	font-size: 18px;
+	text-align: center;
+}
+
+.vertical-list-table {
+	background-color:#F7F7F7;
+	margin: 2em 0;
+	padding: 2em;
+	width: 600px;
+	border-radius: 20px;
+	margin: auto;
+	font-size:18px;
+}
+
+label{
+	 border-bottom: solid 3px #ffa623;
+}
+
